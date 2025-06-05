@@ -26,7 +26,7 @@ To write a program to predict the marks scored by a student using the simple lin
 Developed by: SOMESHWAR S
 RegisterNumber:  212224040322
 ```
-```
+```py
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 # Import Libraries
